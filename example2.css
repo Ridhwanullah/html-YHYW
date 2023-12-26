@@ -1,0 +1,198 @@
+table {
+    width: 300px;
+    background-color: whitesmoke;
+}
+ 
+th,
+td {
+    text-align: center;
+    padding: 5px;
+}
+ 
+tr:nth-child(odd) {
+    background-color: #bbb;
+    color: #fff;
+}
+ 
+tr:nth-child(even) {
+    background-color: #000;
+    color: #ddd;
+}
+ 
+th {
+    background-color: red;
+    color: white;
+}
+			a:Link{
+				color:darkblue ;
+			}
+
+			a:Visited{
+				color: mediumpurple;
+			}
+			a:hover{
+				color: hotpink;
+
+			}
+			.black {
+				color: black; font-size: 24px;
+			}
+			.orange {
+				color:forestgreen ; font-size: 24px; text-align: center;
+			}
+			label{
+				font-weight: bold;
+			}
+		
+			.point{
+				list-style: none;
+    			display: inline-block;
+    			background-color: #231858;
+  				color:white;
+    			width:70px;
+    			padding: 5px 20px;
+    			margin: 5px;
+    			text-align: center;
+				}
+				
+			
+			span.intro{
+				color: black;
+			}
+			.myClass1{
+				text-align: justify;
+				word-spacing: 2px;
+				line-height: 2;
+				text-indent: 20px;
+				font-size: 20px;
+				font-family: 'Roboto', sans-serif;
+
+			}
+
+			.myClass2{
+				text-align: justify;
+				text-indent: 20px;
+				word-spacing: 2px;
+				line-height: 2;
+				font-family: 'Roboto', sans-serif;
+				
+
+			}
+			.myClass3{
+				text-align: justify;
+				text-indent: 20px;
+				word-spacing: 2px;
+				line-height: 2;
+				font-family: 'Roboto', sans-serif;
+				
+				
+			}
+			.myClass4{
+				text-align: justify;
+				text-indent: 20px;
+				line-height: 2;
+				word-spacing: 2px;
+				font-family: 'Roboto', sans-serif;
+				
+			}
+			.myClass5{
+				text-align: justify;
+				text-indent: 20px;
+				word-spacing: 2px;
+				line-height: 2;
+				font-family: 'Roboto', sans-serif;
+				
+				
+			}
+			.myClassX{
+				text-align: justify;
+				text-indent: 20px;
+				word-spacing: 2px;
+				line-height: 2;
+				font-style: italic;
+				font-weight: bold;
+				
+			}
+
+			.myClassXX{
+				text-align: justify;
+				text-indent: 20px;
+				word-spacing: 2px;
+				line-height: 2;
+				font-style: italic;
+				font-weight: bold;
+				
+			}
+			.myClassXXX{
+				text-align: justify;
+				text-indent: 20px;
+				word-spacing: 2px;
+				line-height: 2;
+				font-style: italic;
+				font-weight: bold;				
+			}
+		
+			.Float div{
+				border: 1px solid blue;
+            	width: 100px;
+          	  	height: 50px;
+         	   float: left;;
+			}
+*/
+			.box8{
+				border: 1px solid darkred;
+            	width: 150px;
+          	  	height: 100px;
+          	  	clear: both;
+         	
+			}
+
+
+			div{
+				padding: 10px 20px;
+				border: 5px solid blue;
+				margin: 5px 10px 5px 10px;
+				font-style: italic;
+				width: 100px;
+
+			}
+	
+			
+		img{
+
+			width: 30%;
+            float: left;
+            margin: 1.66%
+		}
+			
+            	
+		
+			
+
+
+			
+			
+
+		body {
+		background-image: url(CSS.dowload.jpg);
+        background-repeat:no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        background-color: aqua;
+ 		}
+
+
+ 		section {
+ 			background-color: royalblue;
+ 			font-size: 20px;
+ 			
+ 		}
+
+ 		footer{
+ 			background-color: gainsboro;
+ 			font-size: 18px;
+ 		}
+
+
+
+ 

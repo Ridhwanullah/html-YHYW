@@ -1,0 +1,153 @@
+header {
+	color: whitesmoke;
+	text-align: center;
+	background-color: blueviolet;
+	font-family: mali;
+	font-size: 2em;
+
+}
+
+body {
+	color: black;
+	background-color: whitesmoke;
+	/*background-image:linear-gradient(greenyellow,ivory);*/
+	text-align: justify;
+	font-family: mali;
+	font-size: 25px;
+
+}
+
+nav {
+	text
+}background-image: linear-gradient(to right, cornflowerblue, blueviolet);
+	
+
+/*li{
+    list-style: none;
+    display: inline-block;
+    padding: 5px 20px;
+    margin: 5px;
+    text-align: left;
+}*/
+
+li.node{
+	list-style: none;
+    display: inline-block;
+    padding: 5px 20px;
+    margin: 5px;
+    text-align: left;
+}
+
+
+h1 {
+	text-align: center;
+	letter-spacing: 5px; 
+	/*text-shadow: 10px 20px;*/ 
+	font-weight: bold; 
+	font-family: cursive;
+}
+
+span.into{
+	color: blueviolet;
+}
+
+img{
+	alt: image;
+	border: 5px solid blueviolet;
+	float: left;
+	width:360px;
+	height: 240px;
+	margin: 0px 25px 25px 0px;
+
+}
+
+.cam1{
+	alt: image;
+	border: 5px solid blueviolet;
+	float: right;
+	width:360px;
+	height: 240px;
+	margin: 0px 0px 25px 25px;
+}
+
+
+.cam3{
+	alt: image;
+	border: 5px solid blueviolet;
+	float: left;
+	width:360px;
+	height: 240px;
+	margin: 0px 25px 25px 0px;
+}
+
+.secvis{
+	color: red;
+	font-family: ;
+	font-weight: ;
+	background-image: url("cam.jpeg");
+	back
+	background-color: cornflowerblue;
+	height:100%;
+	Width:100%;
+	font-size: 1em;
+}
+
+.sectable{
+	color: white;
+	background-color: blueviolet;
+	font-family: arial;
+	font-size: 1em;
+	letter-spacing: 2px;
+
+}
+
+
+table {
+    width: 50%;
+    background-color: whitesmoke;
+}
+ 
+th,
+td {
+    text-align: center;
+    padding: 5px;
+}
+ 
+tr:nth-child(odd) {
+    background-color: #bbb;
+    color: #fff;
+}
+ 
+tr:nth-child(even) {
+    background-color: #000;
+    color: #ddd;
+}
+ 
+th {
+    background-color: red;
+    color: white;
+}
+
+form{
+	background-color:;
+	font-size: 20px;
+	background-image: url("cam2.jpeg");
+	color: orangered;
+	text-align: center;
+	text-indent: ;
+	word-spacing: 2px;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+a:Link{
+	color:darkblue ;
+	}
+
+a:Visited{
+	color: mediumpurple;
+			}
+a:hover{
+	color: hotpink;
+}
